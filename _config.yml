@@ -1,16 +1,16 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: Erin Liao
+bio: Student, machine learning enthusiast, hummus aficionado, a constant work in progress
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: A work in progress!
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-# url: http://artiannaswamy.com
+url: http://erinliao.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -26,24 +26,24 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
-#pinterest: annasw
-#linkedin: artiannaswamy
+#pinterest: mypinterest
+linkedin: Erin Liao
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: erinliao
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: erinliao@berkeley.edu
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    erinliao:
+        name: Erin Liao
+        bio: http://USERNAME.github.io
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        #twitter: NivedithaRam
 
 
 # do you want a larger site? change the option below
